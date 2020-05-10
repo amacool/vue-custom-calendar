@@ -6,7 +6,6 @@
 
  `npm install vue-spring-calendar --save`
 
->For React.js developer please check this [`repository`](https://github.com/boussadjra/spring-calendar)
 ## Usage
 
 **`App.vue :`**
@@ -65,7 +64,3 @@ new Vue({
   render: h => h(App),
 }).$mount('#app')
 ```
-## Demo 
-
-[Vue Spring Calendar demo](https://boussadjra.github.io/vue-spring-calendar/)
-[React Spring Calendar demo](https://boussadjra.github.io/spring-calendar/)
